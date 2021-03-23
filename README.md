@@ -1,5 +1,5 @@
 # vue-l7
-clone1
+clone2
 > A Vue.js project
 
 ## Build Setup
